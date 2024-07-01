@@ -1,5 +1,5 @@
 ![logo](https://github.com/smriti021/smriti021/blob/main/banner.jpeg)
-<h1 align="center">Hi 👋, I'm Smriti Mishra</h1>
+<h1 align="center">👋Hi, I'm Smriti Mishra</h1>
 <h3 align="center">Passionate Programmer and Skilled Web Developer👩‍💻</h3>
 
 
